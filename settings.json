@@ -40,6 +40,7 @@
     "files.autoSaveDelay": 1000,
     "files.trimTrailingWhitespace": true,
     "files.eol": "\n",
+    "editor.showUnused": true,
 
     // extension config: code spell checker
     "cSpell.language": "en,pt,pt_BR",
@@ -67,5 +68,22 @@
 	"terminal.integrated.lineHeight": 1.5,
 	"terminal.integrated.fontWeight": "300",
     "terminal.integrated.fontFamily": "'Jetbrains Mono', monospace",
+    "tabnine.experimentalAutoImports": true,
+    "cSpell.userWords": [
+        "allocs",
+        "bemobidev",
+        "cmdline",
+        "dimiro",
+        "msisdn"
+    ],
+
+    // git
+    "gitlens.currentLine.enabled": true,
+    "gitlens.currentLine.uncommittedChangesFormat": "🚧 ${author} (${date}) - ${message}",
+    "gitlens.blame.highlight.enabled": true,
+    "gitlens.defaultDateFormat": "YYYY-MM-DD",
+    "gitlens.defaultDateShortFormat": "MMM D, YYYY",
+    "gitlens.defaultDateStyle": "relative",
+    "gitlens.blame.avatars": true,
 
 }
