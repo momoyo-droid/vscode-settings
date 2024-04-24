@@ -71,10 +71,8 @@
     "tabnine.experimentalAutoImports": true,
     "cSpell.userWords": [
         "allocs",
-        "bemobidev",
         "cmdline",
         "dimiro",
-        "msisdn"
     ],
 
     // git
